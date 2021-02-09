@@ -13,7 +13,7 @@
 This repository containts 18 Assembler programs numbered from 1 to 18, where the first program is the least complex, and the last one is the most complex. Every program was created as an exercise for Assembler course.
 
 ## Technologies
-Programs are written for [GNU Assembler (GAS)](https://en.wikipedia.org/wiki/GNU_Assembler) x86. They where created in Linux environment, thus they are written using the AT&T syntax.
+Programs are written for [GNU Assembler (GAS)](https://en.wikipedia.org/wiki/GNU_Assembler) x86. They were created in Linux environment, thus they are written using the AT&T syntax.
 
 ## Setup and run
 In order to compile and link programs, GNU Assembler is required. Every file in each folder contains setup and run instructions in comments at the very top of the file, e.g. [01_multiplying/mnozenie.s](./01_multiplying/mnozenie.s):
